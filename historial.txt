@@ -1,0 +1,15 @@
+    1  man man
+    2  pwd
+    3  whoami
+    4  echo "hola"
+    5  echo $HOME
+    6  ls
+    7  cat README
+    8  cd repogit/
+    9  ls
+   10  git clone https://github.com/FrancoFerrandi/Repo_Ferrandi.git
+   11  ls
+   12  cd Repo_Ferrandi/
+   13  ls
+   14  history
+   15  history > historial.txt
